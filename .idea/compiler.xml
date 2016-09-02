@@ -31,11 +31,13 @@
         <processorPath useClasspath="true" />
         <module name="concurrent" />
         <module name="javase" />
+        <module name="nio" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="concurrent" target="1.8" />
       <module name="javase" target="1.8" />
+      <module name="nio" target="1.8" />
       <module name="parser" target="1.8" />
       <module name="parsers" target="1.5" />
     </bytecodeTargetLevel>

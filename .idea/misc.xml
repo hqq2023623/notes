@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/concurrent/pom.xml" />
         <option value="$PROJECT_DIR$/javase/pom.xml" />
         <option value="$PROJECT_DIR$/parser/pom.xml" />
+        <option value="$PROJECT_DIR$/nio/pom.xml" />
       </list>
     </option>
   </component>
