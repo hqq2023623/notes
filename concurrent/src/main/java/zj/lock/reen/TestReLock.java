@@ -3,7 +3,7 @@ package zj.lock.reen;
 /**
  * @author Lzj Created on 2016/3/17.
  */
-public class TestReentrantLock {
+public class TestReLock {
 
     public static void main(String[] args) {
         PrintQueue printQueue = new PrintQueue();
